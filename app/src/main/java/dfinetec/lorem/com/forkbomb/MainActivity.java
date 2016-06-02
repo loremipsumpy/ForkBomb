@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                     counter = 1;
                     execCommands(commands);
 
-
+                    //
                 }
             });
         }
